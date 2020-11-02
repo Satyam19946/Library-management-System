@@ -1,5 +1,6 @@
 # Library-management-System
 
+*My high school project that started it all. 
 This program uses concepts of File Handling, iteration, data processing, and decision making.
 It allows the user to manage a Library.
 The functions in this program are -
